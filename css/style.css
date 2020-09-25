@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+#title {
+	width: auto;
+	height: 100px;
+	border: #000000 solid 1px;
+}
+
+#remeber {
+	width: 500px;
+	height: 400px;
+	margin-top: 16px;
+	float: left;
+	border: #000000 solid 1px;
+}
+
+#introduce {
+	/* width: 884;
+	height: 400px; */
+	margin-top: 16px;
+	float: left;
+	border: #000000 solid 1px;
+}
+
+#message {
+	width: 500px;
+	height: 400px;
+	float: right;
+	border: #000000 solid 1px;
+}
+
+#manager {
+	width: auto;
+	height: 50px;
+	float: left;
+	border: #000000 solid 1px;
+}
